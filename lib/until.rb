@@ -3,7 +3,7 @@ def using_until
         #run while condition is false
         puts "Wingardium Leviosa"
         until levitation_force = 10 do 
-          
+          puts "Wingardium Leviosa"
           levitation_force += 1
         end
         
